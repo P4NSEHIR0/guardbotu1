@@ -1,0 +1,29 @@
+{
+
+    "Server": {
+        "Id": "830438145115160616"
+    },
+
+    "Roles": {
+        "Jail_Role": "845262576661430343",
+        "Booster_Role": "844586573713375235"
+    },
+
+    "Channels": {
+        "Channel_Log": "845653439647580220",
+        "Role_Log": "845653439647580220",
+        "Other_Log": "845653439647580220",
+        "Right_Click": "845653439647580220"    
+    },
+
+    "Emojis": {
+        "Check": "<a:exe_tik:834668801814822953>",
+        "Delete": "<a:2_:834669160965210172>"
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": ".Exe Team ❤ P4NSEHIR0",
+        "Timeout": 10000
+    }
+}
